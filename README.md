@@ -4,7 +4,7 @@ A formally verified 5-stage pipelined RISC-V core written in SystemVerilog, offe
 # Features
 - Supports RV32I
 - Instruction memory and Data Memory can be declared as SystemVerilog arrays or AXI4-Lite interfaces.
-- Formally verified with riscv-formal (for both SystemVerilog arrays version and ACI4-Lite version).
+- Formally verified with riscv-formal (for both SystemVerilog arrays version and AXI4-Lite version).
 
 # File Components
 ## Global files
